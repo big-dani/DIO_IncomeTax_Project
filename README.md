@@ -22,7 +22,7 @@ Este organizador é estruturado em seções chave para garantir uma cobertura co
 
 3.  **Notas Bancárias ou Extratos de Holerites:**
     * Seção dedicada para o registro detalhado de todas as entradas financeiras, mês a mês.
-    * Campos para data, categoria (ex: CNPJ para holerites) e valor, permitindo um acompanhamento preciso das receitas.
+    * Campos para data, categoria e valor, permitindo um acompanhamento preciso das receitas.
 
 ## 🚀 Como Utilizar
 
